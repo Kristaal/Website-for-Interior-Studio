@@ -1,108 +1,413 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Design Studio KRISTAL
+Developer: Kristina Orlichenko <br> Github name: Kristaal
 
-Welcome USER_NAME,
+![Mockup image](assets/docs/Am-I-Responsive.png)
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+[Live webpage](https://kristaal.github.io/Project_1_Code_Institute/)
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
+## Table of Content
 
-## Gitpod Reminders
+1. [Project Goals](#project-goals)
+    1. [User Goals](#user-goals)
+    2. [Site Owner Goals](#site-owner-goals)
+2. [User Experience](#user-experience)
+    1. [Target Audience](#target-audience)
+    2. [User Requrements and Expectations](#user-requrements-and-expectations)
+    3. [User Stories](#user-stories)
+3. [Design](#design)
+    1. [Design Choices](#design-choices)
+    2. [Colour](#colours)
+    3. [Fonts](#fonts)
+    4. [Structure](#structure)
+    5. [Screenshoots of pages](#wireframes)
+4. [Technologies Used](#technologies-used)
+    1. [Languages](#languages)
+    2. [Frameworks & Tools](#frameworks-&-tools)
+5. [Features](#features)
+6. [Testing](#validation)
+    1. [HTML Validation](#HTML-validation)
+    2. [CSS Validation](#CSS-validation)
+    3. [Accessibility](#accessibility)
+    4. [Performance](#performance)
+    5. [Device testing](#performing-tests-on-various-devices)
+    6. [Browser compatibility](#browser-compatability)
+    7. [Testing user stories](#testing-user-stories)
+8. [Bugs](#Bugs)
+9. [Deployment](#deployment)
+10. [Acknowledgements](#acknowledgements)
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+## Project Goals 
 
-`python3 -m http.server`
+### User Goals
+- Finding a design studio that services in creating interior designs;
+- View studio projects for other users;
+- Find information about this design studio;
+- Find information about the team of design studio;
+- Find a contact form, leave comment or question and find the location of the design studio.
 
-A blue button should appear to click: _Make Public_,
+### Site Owner Goals
+- Increase in the number of customers;
+- Promote the bussines;
+- Provide a way for new and existing customers to contact the buissnes;
+- Provide essential information about the bussines to customers.
 
-Another blue button should appear to click: _Open Browser_.
+## User Experience
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+### Target Audience
+- People, who are looking for a design studio that creats interior design for houses, offices and premises;
+- People, who are looking for interior design inspiration.
 
-A blue button should appear to click: _Make Public_,
+### User Requrements and Expectations
 
-Another blue button should appear to click: _Open Browser_.
+- A simple and intuitive navigation system of the website;
+- Quickly and easily find relevant information;
+- Access to projects gallery, that shows the level of the design studio;
+- Links, pages and bottons, that work as expected;
+- Good presentation and a visually appealing design;
+- Well-read simple content with information;
+- An easy way to contact with the design studio;
+- Accessibility.
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+### User Stories
 
-To log into the Heroku toolbelt CLI:
+#### First-time User 
+1. As a first time user, I want to know more about the design studio and the main ideas of the design studio
+2. As a first time user, I want to  get a feel of what to expect from this design studio and the level of their professionalism.
+3. As a first time user, I want to know where the design studio is located
 
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+#### Returning User
+4. As a returning user, I want to see who creates project for me;
+5. As a returnign user, I want to find the design studio on social media;
+6. As a returning user, I want to find a phone number to call;
+7. As a returning user, I want to find way to contact with the design studio and make a request;
+8. As a returning user, I want to leave some message to the team-members.
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+#### Site Owner 
+9. As the site owner, I want, that users to get to know the design studio and I want to point out the uniqueness and main ideas of the studio;
+10. As the site owner, I want, that the users to be able to contact us;
+11. As the site owner, I want to show our projects and level of our professionalism.
 
-------
+## Design
 
-## Release History
+### Design Choices
+The web site was designed keeping in mind that the visitor should see a modern expensive site with unique elements and examples of design studio projects. Attractive website gives an idea of the combination of textures, colors, art and engineering.
+Images are selected according to the color scheme.
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+### Colour
+For the color scheme, gray and green tones were chosen to match the images on the page, as well as the color scheme of the design studio itself.These colors give an idea of modern, high cost and green gives a fresh look.
+<br>
 
-**September 1 2021:** Remove `PGHOSTADDR` environment variable.
+![Colour scheme](assets/docs/color-palette.png)
 
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
+### Fonts
+Poppins font was chosen for the entire website. It is one of the Geometric sans serif typefaces, that is very popular for building websites. Each letterform is nearly monolinear, with optical corrections.
 
-**July 2 2021:** Remove extensions that are not available in Open VSX.
+### Structure
+The page is structured in a well recognizable, user friendly and easy to learn way. Upon arriving to the website the user sees a familiar type of navigation bar with the studio's logo on the left side and the navigation links to the right. 
+The website consists of four separate pages: 
+- A homepage with with social media accounts of design studio and button to make request;
+- An about page with the About Us and Our Team sections;
+- An gallery with photo of projects, showcasing what you can expect from this design studio and the level of professionalism;
+- A contact page with a contact form.
 
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
+### Screenshots of pages
 
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
+<details><summary>Home</summary>
+<img src="assets/docs/screenshoots/HOME.png">
+</details>
+<details><summary>About</summary>
+<img src="assets/docs/screenshoots/ABOUT.png">
+</details>
+<details><summary>Projects</summary>
+<img src="assets/docs/screenshoots/PROJECTS.png">
+</details>
+<details><summary>Contact</summary>
+<img src="assets/docs/screenshoots/CONTACT.png">
+</details>
 
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
+## Technologies Used
 
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
+### Languages
+- HTML
+- CSS
+### Frameworks & Tools
+- GitHub
+- Gitpod
+- Paint<span>.</span>NET
+- Balsamiq
+- Google Fonts
+- Font Awsome
+- Pinterest<span>.</span>COM
+- Mcolor.space
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+## Features
+The page consists of five pages
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+### Logo and Navigation Bar
+- Featured on all four pages;
+- The navbar is responsive, fixed and contains blur effect and includes links to the Homepage, About page, Gallery and Contact us page. It allows users to easily navigate the page;
+- The link for the page the user wants to go is highlighted in animated green as a logo.
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+![Logo-and-navbar.png](assets/docs/features/Logo-and-navbar.png)
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+### Header with button-link
+- Header looks like main page, that featured on tree pages with changed heading. 
+- Animated green button-link sends the user to the contact page, which allows the owner to always be reminded users of the connection with the company, and the user gives the opportunity to immediately contact.
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+![header and button-link](assets/docs/features/header-button.png)
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+### Footer
+- Featured on all four pages
+- Consists of two seperate sections: social links and copyright information
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+![Footer](assets/docs/features/footer.png)
 
-------
+### About Us
+- Gives a description of the main principles and ideas of the design studio
 
-## FAQ about the uptime script
+![About Us](assets/docs/features/About-us.png)
 
-**Why have you added this script?**
+### Our team members
+- Gives information about team and shows their photo
 
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
+![Our team members](assets/docs/features/team.png)
 
-**How will this affect me?**
+### Projects
+- Images of the projects of design studio arranged in a grid
 
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
+![Projects](assets/docs/features/Projects.png)
 
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
+### Contact Form
+- A way for user to contact with design studio or live message for the team
 
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
+![Contact Form](assets/docs/features/contact-form.png)
 
-**So….?**
+## Validation
 
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
+### HTML Validation
+The W3C Markup Validation Service was used to validate the HTML of the website. <br>
+All pages pass with no errors no warnings to show.
+<details><summary>Home</summary>
+<img src="assets/docs/validation/validation-html-index.png">
+</details>
+<details><summary>About</summary>
+<img src="assets/docs/validation/validation-html-about.png">
+</details>
+<details><summary>Projects</summary>
+<img src="assets/docs/validation/validation-html-gallery.png">
+</details>
+<details><summary>Contact</summary>
+<img src="assets/docs/validation/validation-html-form.png">
+</details>
 
-**Can I opt out?**
+### CSS Validation
+The W3C Jigsaw CSS Validation Service was used to validate the CSS of the website.
+My own custom CSS passes with no errors to show.
+<details><summary>style.css</summary>
+<img src="assets/docs/validation/validation-css-style.png">
+</details>
 
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
+### Accessibility
+The WAVE WebAIM web accessibility evaluation tool was used to ensure the website met high accessibility standards. All pages pass with 0 errors.
+<details><summary>Home</summary>
+<img src="assets/docs/validation/validation-accessibility-index.png">
+</details>
+<details><summary>About</summary>
+<img src="assets/docs/validation/validation-accessibility-about.png">
+</details>
+<details><summary>Projects</summary>
+<img src="assets/docs/validation/validation-accessibility-gallery.png">
+</details>
+<details><summary>Contact</summary>
+<img src="assets/docs/validation/validation-accessibility-form.png">
+</details>
 
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
+### Performance 
+Google Lighthouse in Google Chrome Developer Tools was used to test the performance of the website. 
 
-**Anything more?**
+<details><summary>Home</summary>
+<img src="assets/docs/validation/lighthouse-performance-index.png">
+</details>
+<details><summary>About</summary>
+<img src="assets/docs/validation/lighthouse-performance-about.png">
+</details>
 
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
+<details><summary>Projects</summary>
+<img src="assets/docs/validation/lighthouse-performance-gallery.png">
+</details>
+<details><summary>Contact</summary>
+<img src="assets/docs/validation/lighthouse-performance-form.png">
+</details>
 
----
+### Performing tests on various devices 
+The website was tested on the following devices:
+- Iphone 14 
+- Iphone 13pro
+- Samsung Glaxy Tab A (2016)
+- Lenovo ThinkPad 
 
-Happy coding!
+In addition, the website was tested using Google Chrome Developer Tools Device Toggeling option for all available device options.
+
+### Browser compatability
+The website was tested on the following browsers:
+- Google Chrome
+- Mozilla Firefox
+- Microsoft Egde
+
+### Testing user stories
+
+1. As a first time user, I want to know more about the design studio and the main ideas of the design studio
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|About Us | Navigate to the About page and locate the About Us section | Find description and main ideas of the design studio | Works as expected |
+|About Us| Navigate to the About page and scroll down | Find information about team-members and their photo| Works as expected
+
+<details><summary>Screenshots</summary>
+<img src="assets/docs/user-story-testing/User-story-1.png">
+</details>
+<br>
+
+2. As a first time user, I want to  get a feel of what to expect from this design studio and the level of their professionalism
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Projects | Navigate to the Projects page | Find gallery with design studio`s projects, what shows the level of professionalism | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="assets/docs/user-story-testing/User-story-2.png">
+</details>
+<br>
+
+3. As a first time user, I want to know where the design studio located
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Map | Navigate to the Contact Us page, locate the Google Map | Locating a map showing the location of the design studio | Works as expected |
+|Info Box | On Contact page | Find the address of the design studio | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="assets/docs/user-story-testing/User-story-3.png">
+</details>
+<br>
+
+4. As a returning user, I want to see who creates project for me
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|About Us| Navigate to the About page and scroll down | Find information about team-members and their photo| Works as expected
+
+<details><summary>Screenshots</summary>
+<img src="assets/docs/user-story-testing/User-story-4.png">
+</details>
+<br>
+
+5. As a returnign user, I want to find the design studio on social media
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Footer - social media section | On all page scroll to the bottom | Click on social media links | Works as expected | 
+
+<details><summary>Screenshots</summary>
+<img src="assets/docs/user-story-testing/User-story-5.png">
+</details>
+<br>
+
+6. As a returning user, I want to find a phone number to call
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Info Box | Navigate to Contact Us page and locate the How to find us section | See phone number | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="assets/docs/user-story-testing/User-story-6.png">
+</details>
+<br>
+
+7. As a returning user, I want to leave some message to the team-members
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Contact Form | Navigate to the Contact Us Page and locate the contact form, fill out and submit contact form | Data submited via contact form | Works as expectd |
+
+<details><summary>Screenshots</summary>
+<img src="assets/docs/user-story-testing/User-story-7.png">
+</details>
+<br>
+
+9. As the site owner, I want, that users to get to know the design studio and I want to point out the uniqueness and main ideas of the studio;
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| About Us | Navigate to About page and locate About Us section | See relevant information about the design studio | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="assets/docs/user-story-testing/User-story-1.png">
+</details>
+<br>
+
+10. As the site owner, I want, that the users to be able to contact us
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Contact Form | Navigate to the Contact Us Page and locate the contact form, fill out and submit contact form | Data submited via contact form | Works as expectd |
+| Info Box | Navigate to Contact Us page and locate the How to find us section | Find the phone number | Works as expected |
+| Footer - contact information section | On any page scroll down to the footer | Find design studio`s acconts on social media | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="assets/docs/user-story-testing/User-story-7.png">
+<img src="assetsdocs/user-story-testing/user-story-6.png">
+<img src="assets/docs/user-story-testing/user-story-5.png">
+</details>
+<br>
+11. As the site owner, I want to show our projects and level of our professionalism.
+
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Projects | Navigate to the Projects page | Find gallery with design studio`s projects, what shows the level of professionalism | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="assets/docs/user-story-testing/User-story-2.png">
+</details>
+<br>
+
+## Bugs
+
+| **Bug** | **Fix** |
+| ----------- | ----------- |
+| The user can submit a contact form input without a number | Add required attribute to phone input field |
+| Div with team containers divides into tree rows on xs screen size | Add a media query |
+Images don`t have alternative text|Add alt for all img
+|Images That Lack Quality |Only use high-quality images that are relevant to the content on the page|
+Website isn’t mobile-friendly| Use a responsive website design and add media requires
+
+
+## Deployment
+The website was deployed using GitHub Pages by following these steps:
+1. In the GitHub repository navigate to the Settings tab
+2. On the left hand menu select Pages
+3. For the source select Branch: main
+4. After the webpage refreshes automaticaly you will se a ribbon on the top saying:
+ Your site is live at https://kristaal.github.io/Project_1_Code_Institute/
+
+
+You can for fork the repository by following these steps:
+1. Go to the GitHub repository
+2. Click on Fork button in upper right hand corner
+
+You can clone the repository by following these steps:
+1. Go to the GitHub repository 
+2. Locate the Code button above the list of files and click it 
+3. Select if you prefere to clone using HTTPS, SSH, or Github CLI and click the copy button to copy the URL to your clipboard
+4. Open Git Bash
+5. Change the current working directory to the one where you want the cloned directory
+6. Type git clone and paste the URL from the clipboard ($ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY)
+7. Press Enter to create your local clone.
+
+
+## Acknowledgements
+I would like to take the opportunity to thank:
+- My mentor Spencer Barriball for his help, advice and support.
+- To the lovely people on the Code Institute Slack for providing peer code reviews.
+- To my colleagues with whom I study who helped solve problems together
