@@ -1,7 +1,7 @@
 # Design Studio KRISTAL
 Developer: Kristina Orlichenko <br> Github name: Kristaal
 
-![Mockup image](assets/docs/Am-I-Responsive.png)
+![Mockup image](assets/docs/am-i-responsive.png)
 
 [Live webpage](https://kristaal.github.io/Project_1_Code_Institute/)
 
@@ -113,16 +113,16 @@ The website consists of four separate pages:
 ### Screenshots of pages
 
 <details><summary>Home</summary>
-<img src="assets/docs/screenshoots/HOME.png">
+<img src="assets/docs/screenshoots/home.png">
 </details>
 <details><summary>About</summary>
-<img src="assets/docs/screenshoots/ABOUT.png">
+<img src="assets/docs/screenshoots/about.png">
 </details>
 <details><summary>Projects</summary>
-<img src="assets/docs/screenshoots/PROJECTS.png">
+<img src="assets/docs/screenshoots/project.png">
 </details>
 <details><summary>Contact</summary>
-<img src="assets/docs/screenshoots/CONTACT.png">
+<img src="assets/docs/screenshoots/contact.png">
 </details>
 
 ## Technologies Used
@@ -141,14 +141,14 @@ The website consists of four separate pages:
 - Mcolor.space
 
 ## Features
-The page consists of five pages
+The page consists of four pages
 
 ### Logo and Navigation Bar
 - Featured on all four pages;
 - The navbar is responsive, fixed and contains blur effect and includes links to the Homepage, About page, Gallery and Contact us page. It allows users to easily navigate the page;
 - The link for the page the user wants to go is highlighted in animated green as a logo.
 
-![Logo-and-navbar.png](assets/docs/features/Logo-and-navbar.png)
+![Logo-and-navbar.png](assets/docs/features/logo-and-navbar.png)
 
 ### Header with button-link
 - Header looks like main page, that featured on tree pages with changed heading. 
@@ -165,7 +165,7 @@ The page consists of five pages
 ### About Us
 - Gives a description of the main principles and ideas of the design studio
 
-![About Us](assets/docs/features/About-us.png)
+![About Us](assets/docs/features/about-us.png)
 
 ### Our team members
 - Gives information about team and shows their photo
@@ -175,7 +175,7 @@ The page consists of five pages
 ### Projects
 - Images of the projects of design studio arranged in a grid
 
-![Projects](assets/docs/features/Projects.png)
+![Projects](assets/docs/features/projects.png)
 
 ### Contact Form
 - A way for user to contact with design studio or live message for the team
@@ -264,7 +264,7 @@ The website was tested on the following browsers:
 |About Us| Navigate to the About page and scroll down | Find information about team-members and their photo| Works as expected
 
 <details><summary>Screenshots</summary>
-<img src="assets/docs/user-story-testing/User-story-1.png">
+<img src="assets/docs/user-story-testing/user-story-1.png">
 </details>
 <br>
 
@@ -275,7 +275,7 @@ The website was tested on the following browsers:
 | Projects | Navigate to the Projects page | Find gallery with design studio`s projects, what shows the level of professionalism | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="assets/docs/user-story-testing/User-story-2.png">
+<img src="assets/docs/user-story-testing/user-story-2.png">
 </details>
 <br>
 
@@ -287,7 +287,7 @@ The website was tested on the following browsers:
 |Info Box | On Contact page | Find the address of the design studio | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="assets/docs/user-story-testing/User-story-3.png">
+<img src="assets/docs/user-story-testing/user-story-3.png">
 </details>
 <br>
 
@@ -298,7 +298,7 @@ The website was tested on the following browsers:
 |About Us| Navigate to the About page and scroll down | Find information about team-members and their photo| Works as expected
 
 <details><summary>Screenshots</summary>
-<img src="assets/docs/user-story-testing/User-story-4.png">
+<img src="assets/docs/user-story-testing/user-story-4.png">
 </details>
 <br>
 
@@ -309,7 +309,7 @@ The website was tested on the following browsers:
 | Footer - social media section | On all page scroll to the bottom | Click on social media links | Works as expected | 
 
 <details><summary>Screenshots</summary>
-<img src="assets/docs/user-story-testing/User-story-5.png">
+<img src="assets/docs/user-story-testing/user-story-5.png">
 </details>
 <br>
 
@@ -320,7 +320,7 @@ The website was tested on the following browsers:
 | Info Box | Navigate to Contact Us page and locate the How to find us section | See phone number | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="assets/docs/user-story-testing/User-story-6.png">
+<img src="assets/docs/user-story-testing/user-story-6.png">
 </details>
 <br>
 
@@ -331,7 +331,7 @@ The website was tested on the following browsers:
 | Contact Form | Navigate to the Contact Us Page and locate the contact form, fill out and submit contact form | Data submited via contact form | Works as expectd |
 
 <details><summary>Screenshots</summary>
-<img src="assets/docs/user-story-testing/User-story-7.png">
+<img src="assets/docs/user-story-testing/user-story-7.png">
 </details>
 <br>
 
@@ -342,7 +342,7 @@ The website was tested on the following browsers:
 | About Us | Navigate to About page and locate About Us section | See relevant information about the design studio | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="assets/docs/user-story-testing/User-story-1.png">
+<img src="assets/docs/user-story-testing/user-story-1.png">
 </details>
 <br>
 
@@ -355,7 +355,7 @@ The website was tested on the following browsers:
 | Footer - contact information section | On any page scroll down to the footer | Find design studio`s acconts on social media | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="assets/docs/user-story-testing/User-story-7.png">
+<img src="assets/docs/user-story-testing/user-story-7.png">
 <img src="assetsdocs/user-story-testing/user-story-6.png">
 <img src="assets/docs/user-story-testing/user-story-5.png">
 </details>
@@ -368,7 +368,7 @@ The website was tested on the following browsers:
 | Projects | Navigate to the Projects page | Find gallery with design studio`s projects, what shows the level of professionalism | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="assets/docs/user-story-testing/User-story-2.png">
+<img src="assets/docs/user-story-testing/user-story-2.png">
 </details>
 <br>
 
