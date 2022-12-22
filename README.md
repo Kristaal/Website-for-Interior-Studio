@@ -80,13 +80,12 @@ Developer: Kristina Orlichenko <br> Github name: Kristaal
 4. As a returning user, I want to see who creates project for me;
 5. As a returnign user, I want to find the design studio on social media;
 6. As a returning user, I want to find a phone number to call;
-7. As a returning user, I want to find way to contact with the design studio and make a request;
-8. As a returning user, I want to leave some message to the team-members.
+7. As a returning user, I want to leave some message to the team-members.
 
 #### Site Owner 
-9. As the site owner, I want, that users to get to know the design studio and I want to point out the uniqueness and main ideas of the studio;
-10. As the site owner, I want, that the users to be able to contact us;
-11. As the site owner, I want to show our projects and level of our professionalism.
+8. As the site owner, I want, that users to get to know the design studio and I want to point out the uniqueness and main ideas of the studio;
+9. As the site owner, I want, that the users to be able to contact us;
+10. As the site owner, I want to show our projects and level of our professionalism.
 
 ## Design
 
@@ -336,7 +335,7 @@ The website was tested on the following browsers:
 </details>
 <br>
 
-9. As the site owner, I want, that users to get to know the design studio and I want to point out the uniqueness and main ideas of the studio;
+8. As the site owner, I want, that users to get to know the design studio and I want to point out the uniqueness and main ideas of the studio;
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -347,7 +346,7 @@ The website was tested on the following browsers:
 </details>
 <br>
 
-10. As the site owner, I want, that the users to be able to contact us
+9. As the site owner, I want, that the users to be able to contact us
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -361,7 +360,8 @@ The website was tested on the following browsers:
 <img src="assets/docs/user-story-testing/user-story-5.png">
 </details>
 <br>
-11. As the site owner, I want to show our projects and level of our professionalism.
+
+10. As the site owner, I want to show our projects and level of our professionalism.
 
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
