@@ -32,8 +32,9 @@ Developer: Kristina Orlichenko <br> Github name: Kristaal
     5. [Device testing](#performing-tests-on-various-devices)
     6. [Browser compatibility](#browser-compatability)
     7. [Testing user stories](#testing-user-stories)
-8. [Bugs](#Bugs)
-9. [Deployment](#deployment)
+7. [Bugs](#Bugs)
+8. [Deployment](#deployment)
+9. [Credits](#credits)
 10. [Acknowledgements](#acknowledgements)
 
 ## Project Goals 
@@ -113,16 +114,16 @@ The website consists of four separate pages:
 ### Screenshots of pages
 
 <details><summary>Home</summary>
-<img src="assets/docs/screenshoots/home.png">
+<img src="assets/docs/screenshots/home.png">
 </details>
 <details><summary>About</summary>
-<img src="assets/docs/screenshoots/about.png">
+<img src="assets/docs/screenshots/about.png">
 </details>
 <details><summary>Projects</summary>
-<img src="assets/docs/screenshoots/project.png">
+<img src="assets/docs/screenshots/project.png">
 </details>
 <details><summary>Contact</summary>
-<img src="assets/docs/screenshoots/contact.png">
+<img src="assets/docs/screenshots/contact.png">
 </details>
 
 ## Technologies Used
@@ -356,7 +357,7 @@ The website was tested on the following browsers:
 
 <details><summary>Screenshots</summary>
 <img src="assets/docs/user-story-testing/user-story-7.png">
-<img src="assetsdocs/user-story-testing/user-story-6.png">
+<img src="assets/docs/user-story-testing/user-story-6.png">
 <img src="assets/docs/user-story-testing/user-story-5.png">
 </details>
 <br>
@@ -404,6 +405,34 @@ You can clone the repository by following these steps:
 5. Change the current working directory to the one where you want the cloned directory
 6. Type git clone and paste the URL from the clipboard ($ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY)
 7. Press Enter to create your local clone.
+
+## Credits
+
+### Media
+In order of apearance:
+- [background](assets/images/background1.webp): Photo by <a href="https://www.pinterest.ie/iqosa/">Iqosa</a> on <a href="https://www.pinterest.ie/iqosa/">Pinterest</a>
+- [card1](assets/images/card1.webp): Photo by <a href="https://www.homesandgardens.com/advice/world-s-best-interior-designers">Colette van den Thillart</a> on <a href="https://www.homesandgardens.com/advice/world-s-best-interior-designers">www.homesandgardens.com</a>
+- [card2](assets/images/card2.webp): Photo by <a href="https://www.pinterest.ie/iqosa/">Colette van den Thillart</a> on <a href="https://www.homesandgardens.com/advice/world-s-best-interior-designers">www.homesandgardens.com</a>
+- [pr1](assets/images/pr1.webp): Photo by <a href="https://www.pinterest.ie/iqosa/">Iqosa</a> on <a href="https://www.pinterest.ie/iqosa/">Pinterest</a>
+- [pr2](assets/images/pr2.webp): Photo by <a href="https://www.pinterest.ie/iqosa/">Iqosa</a> on <a href="https://www.pinterest.ie/iqosa/">Pinterest</a>
+- [pr3](assets/images/br3.webp): Photo by <a href="https://www.pinterest.ie/iqosa/">Iqosa</a> on <a href="https://www.pinterest.ie/iqosa/">Pinterest</a>
+- [pr4](assets/images/br4.webp): Photo by <a href="https://www.pinterest.ie/iqosa/">Iqosa</a> on <a href="https://www.pinterest.ie/iqosa/">Pinterest</a>
+- [pr5](assets/images/br5.webp): Photo by <a href="https://www.pinterest.ie/iqosa/">Iqosa</a> on <a href="https://www.pinterest.ie/iqosa/">Pinterest</a>
+- [pr6](assets/images/br6.webp): Photo by <a href="https://www.pinterest.ie/iqosa/">Iqosa</a> on <a href="https://www.pinterest.ie/iqosa/">Pinterest</a>
+- [pr7](assets/images/br7.webp): Photo by <a href="https://www.pinterest.ie/iqosa/">Iqosa</a> on <a href="https://www.pinterest.ie/iqosa/">Pinterest</a>
+- [pr8](assets/images/br8.webp): Photo by <a href="https://www.pinterest.ie/iqosa/">Iqosa</a> on <a href="https://www.pinterest.ie/iqosa/">Pinterest</a>
+- [team1](assets/images/team1.webp): My photo</a>
+- [team2](assets/images/team2.webp): Photo on <a href="https://www.pinterest.ie/">Pinterest</a>
+- [team3](assets/images/team3.webp): Photo on <a href="https://www.pinterest.ie/">Pinterest</a>
+- [team4](assets/images/team4.webp): Photo on <a href="https://www.pinterest.ie/">Pinterest</a>
+
+### Code
+- Code Institute for the Gitpod template provided at https://github.com/Code-Institute-Org/gitpod-full-template allowing easy set up of a repository and workspace s well as initial project HTML template;
+- Code Institute Love Running example project for general guidance as to minimum requerements and overview of approach and industry conventions as well as guidance on SEO using metadata in head element;
+- Font Awesome for social media icons;
+- Google Fonts for imported text fonts;
+- Different YouTube chanels for creating navigation bar.
+
 
 
 ## Acknowledgements
